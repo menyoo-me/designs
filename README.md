@@ -2,17 +2,14 @@
 
 ## Platform
 
-### Roasty Design System
-- Git Repository: https://github.com/menyoo-me/roasty
-- Zeplin 
+**Roasty Design System**
+- Git repository: https://github.com/menyoo-me/roasty
+- Figma 
 - Storybook
 
 ## Consumers
-- Git Repository: https://github.com/menyoo-me/
-- Zeplin 
-- Storybook
 
-## Backoffice
-- Git Repository: https://github.com/menyoo-me/
-- Zeplin 
+**Gateau Design System**
+- Git repository: https://github.com/menyoo-me/gateau
+- Figma
 - Storybook
